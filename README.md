@@ -29,7 +29,7 @@ To contribute, please follow these steps:
 
 ## Feedback
 
-We value your feedback and suggestions for improving Nature's Quest. If you encounter any issues, have ideas for new features, or simply want to share your thoughts, please don't hesitate to [contact us](mailto:feedback@naturesquest.com).
+We value your feedback and suggestions for improving Nature's Quest. If you encounter any issues, have ideas for new features, or simply want to share your thoughts, please don't hesitate to contact us.
 
 ## License
 
